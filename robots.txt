@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://xg416.github.io/XingguangZhang/sitemap.xml
