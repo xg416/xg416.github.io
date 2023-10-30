@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Turbulence Mitigation 
+title: Atmospheric Turbulence Simulation & Mitigation 
 description: Developing powerful, efficient, and generalizable turbulence mitigation algorithms
 img: assets/img/tmt_figure.png
 redirect: https://engineering.purdue.edu/ChanGroup/project_turbulence.html
