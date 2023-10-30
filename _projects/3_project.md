@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: A pseudo-VR solution in rehabilitation training system with AirSim
+description: Techniques include OpenPose + Kinect depth map + IR LEDs/camera + Kalman Filter. Human data collection and analysis suspended due of the pandemic
+img: assets/img/pvr.png
+redirect: https://drive.google.com/file/d/1CLkPJuJsIBgI4cJwWEwxwtlALx7kyPuX/view
 importance: 3
 category: work
 ---
