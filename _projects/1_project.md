@@ -3,6 +3,7 @@ layout: page
 title: Turbulence Mitigation 
 description: Developing powerful, efficient, and generalizable turbulence mitigation algorithms
 img: assets/img/tmt_figure.png
+redirect: https://engineering.purdue.edu/ChanGroup/project_turbulence.html
 importance: 1
 category: work
 related_publications: zhang2022imaging, liu2023farsight, Jaiswal_2023_ICCV
