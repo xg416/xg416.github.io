@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-5-22
+date: 2023-10-25
 inline: true
 related_posts: false
 ---
 
-Start research intern at Futurewei Technologies Inc. with Dr. Jason Chou
+One paper accepted by Transaction on Computational Imaging (TCI)

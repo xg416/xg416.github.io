@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-7-20
+date: 2024-02-18
 inline: true
 related_posts: false
 ---
 
-One paper accepted by ICCV 2023
+One paper accepted by IEEE Transactions on Signal Processing (TSP)
