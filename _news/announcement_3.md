@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted by Transaction on Computational Imaging (TCI)
+One paper accepted by IEEE Transactions on Computational Imaging (TCI)
