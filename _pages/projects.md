@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [work, course]
+display_categories: [research, work]
 horizontal: True
 ---
 <!-- change number of columns: row-cols-# -->

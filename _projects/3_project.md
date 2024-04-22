@@ -5,7 +5,7 @@ description: Techniques include OpenPose + Kinect depth map + IR LEDs/camera + K
 img: assets/img/pvr.png
 redirect: https://drive.google.com/file/d/1CLkPJuJsIBgI4cJwWEwxwtlALx7kyPuX/view
 importance: 3
-category: work
+category: research
 ---
 
 Every project has a beautiful feature showcase page.

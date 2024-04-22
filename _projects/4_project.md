@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Causal inference
+title: source-free domain adaptation for video object detection
 description: ongoing
 img:
 importance: 3
-category: course
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

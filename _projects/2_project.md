@@ -5,7 +5,7 @@ description: We (team IBM-Purdue) ranked No. 3 at "unknown facility" track and N
 img: assets/img/activity.jpg
 redirect: https://actev.nist.gov/sdl#tab_overview/
 importance: 2
-category: work
+category: research
 ---
 
 Every project has a beautiful feature showcase page.

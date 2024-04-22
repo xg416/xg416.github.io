@@ -5,8 +5,8 @@ description: Developing powerful, efficient, and generalizable turbulence mitiga
 img: assets/img/tmt_figure.png
 redirect: https://engineering.purdue.edu/ChanGroup/project_turbulence.html
 importance: 1
-category: work
-related_publications: zhang2022imaging, liu2023farsight, Jaiswal_2023_ICCV
+category: research
+related_publications: zhang2023datum, zhang2022imaging, liu2023farsight, Jaiswal_2023_ICCV
 ---
 
 Every project has a beautiful feature showcase page.
