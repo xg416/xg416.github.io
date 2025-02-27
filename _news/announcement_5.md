@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-10-25
+date: 2024-02-18
 inline: true
 related_posts: false
 ---
 
-One paper accepted by IEEE Transactions on Computational Imaging (TCI)
+One paper accepted by IEEE Transactions on Signal Processing (TSP)

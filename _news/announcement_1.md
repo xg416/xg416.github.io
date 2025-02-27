@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-05-13
+date: 2025-02-26
 inline: true
 related_posts: false
 ---
 
-Start summer internship at Apple
+Two papers accepted by CVPR 2025

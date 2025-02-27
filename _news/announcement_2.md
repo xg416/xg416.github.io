@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-04-17
+date: 2024-05-13
 inline: true
 related_posts: false
 ---
 
-Passed my preliminary exam and become a Ph.D. candidate.
+Start summer internship at Apple
