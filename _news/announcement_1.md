@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers accepted by CVPR 2025
+Two papers accepted by CVPR 2025 (Highlights)
